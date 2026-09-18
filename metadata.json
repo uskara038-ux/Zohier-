@@ -1,0 +1,6 @@
+{
+  "name": "كاشف الفيروسات",
+  "description": "تطبيق متطور لفحص وحماية الهاتف من الفيروسات والبرمجيات الخبيثة وتدقيق أذونات التطبيقات ونقاط الضعف الأمنية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

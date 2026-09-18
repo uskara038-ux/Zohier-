@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">كاشف الفيروسات</string>
+    <string name="app_tagline">درع الحماية المتكامل للأندرويد</string>
+
+    <!-- Navigation & Headers -->
+    <string name="tab_scan">الفحص والأمان</string>
+    <string name="tab_threats">التهديدات</string>
+    <string name="tab_system_audit">أمان النظام</string>
+    <string name="tab_history">سجل الفحوصات</string>
+    <string name="tab_tips">نصائح الأمان</string>
+
+    <!-- Statuses -->
+    <string name="status_protected">الهاتف محمي وآمن</string>
+    <string name="status_warning">تم اكتشاف تهديدات محتملة!</string>
+    <string name="status_scanning">جارٍ فحص الهاتف وتحليل التهديدات...</string>
+    <string name="status_needs_scan">يوصى بإجراء فحص أمني جديد</string>
+
+    <!-- Scan Actions -->
+    <string name="action_quick_scan">فحص سريع</string>
+    <string name="action_deep_scan">فحص شامل</string>
+    <string name="action_stop_scan">إيقاف الفحص</string>
+    <string name="action_clean_threats">معالجة التهديدات</string>
+
+    <!-- Details -->
+    <string name="installed_apps_count">التطبيقات المفحوصة</string>
+    <string name="risk_score">مستوى الأمان</string>
+    <string name="threats_found">التهديدات المكتشفة</string>
+    <string name="last_scan">آخر فحص</string>
+    <string name="never_scanned">لم يتم الفحص بعد</string>
+</resources>
